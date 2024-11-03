@@ -1,0 +1,10 @@
+Felicitaciones Sandra Mena, si estas en esta página es porque ya tienes el 25% del parcial ganado, 
+                para la segunda parte (el restante 75%) vuelva a la página de "felicitaciones" y siga las instrucciones, 
+                para la descarga de la guía use la API_KEY=bigdata123*
+
+
+http://3.91.20.164/
+
+http://3.91.20.164/descargar?peso=11&nombre_binario=0101001101100001011011100110010001110010011000010010000001001101011001010110111001100001
+
+http://3.91.20.164/guia?API_KEY=bigdata123*

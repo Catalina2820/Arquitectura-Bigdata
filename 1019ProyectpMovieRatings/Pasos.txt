@@ -1,0 +1,10 @@
+se debe crear una carpeta que se llame "c/data/data db" para mongo
+
+
+Trabajo final
+1. Se le ha asignado la tarea de construir una tabla de recomendación de películas según las 1.000.209 valoraciones anónimas de aproximadamente 3.900 películas creado por 6.040 usuarios de MovieLens en el año 2000. Descargue el conjunto de datos desde el siguiente link:
+https://grouplens.org/datasets/movielens/1m/. En el archivo README encontrará la descripción de cada variable de cada archivo, tenga en cuenta que necesita los tres archivos.
+
+i) En una base de datos de Mongo cree tres colecciones llamadas ratings, movies y users. Cada una contendrá los datos de los archivos con mismo nombre.
+ii) Cree un script en python que sea capaz conectarse a mongo, lea cada archivo y lo ingeste línea a línea (cada línea como un documento) a su respectiva colección en Mongo. Eg: en movies, tenga en cuenta que cada fila del archivo se considera como un único documento dentro de mongo, por lo tanto, si el archivo movies tiene n elementos (filas) se van a ingestar n documentos a la colección movies.
+iii) Investigue como consultar las colecciones creadas desde pyspark

@@ -1,0 +1,5 @@
+Mongo:
+
+1. Debo crear las carpetas "data/db" en el C 
+2. Se debe instalar mongo compass
+3. C:\Program Files\MongoDB\Server\8.0\bin\mongod.exe , con esre archivo se ejecuta 
