@@ -1,0 +1,24 @@
+Para ejecutar la app "final"
+
+1. abrir la carpeta /app en vsc
+
+2. En consola:
+    .\.venv\Scripts\activate 
+    #para activar el env
+
+3. Para ejecutar el archivo (la app)
+    python .\Punto2.py
+
+4. Para detener la app
+    control + C
+
+5. Detener la env
+    deactivate
+
+6. Para testear una sección del código 
+    solo debo iniciar el ambiente + iluminar la fracción + shift Enter
+
+----------------------
+El la carpeta app va una máquina virtual con python 3.9
+
+En las carpetas dentro de datalake van los .dat y .csv de los correspondientes datasets
